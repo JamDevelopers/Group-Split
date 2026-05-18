@@ -1,4 +1,4 @@
-<h1>Group Split</h1>
+<h1>Group Split Flow</h1>
 <h2>SMART EXPENSE MANAGEMENT</h2>
 <img width="1157" height="453" alt="Untitled001" src="https://github.com/user-attachments/assets/499c237f-b37f-4fa3-9d8f-50cfeb06d26d" />
 
