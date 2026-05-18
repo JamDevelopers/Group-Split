@@ -1,0 +1,6 @@
+{
+  "name": "GroupSplit",
+  "description": "A smart, easy-to-use group expense tracker with automated settlements and AI-powered expense logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
