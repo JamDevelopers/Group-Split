@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<h1>Group Split</h1>
+<h2>SMART EXPENSE MANAGEMENT</h2>
+<img width="1157" height="453" alt="Untitled001" src="https://github.com/user-attachments/assets/499c237f-b37f-4fa3-9d8f-50cfeb06d26d" />
 
-# Run and deploy your AI Studio app
+<p>Stop worrying about who owes who what.The most beautiful and functional way to split group expenses. Whether you're traveling the world or sharing a flat.</p>
+<img width="621" height="587" alt="Untitled3" src="https://github.com/user-attachments/assets/8a2cba94-052f-4e49-a60e-7e9feadf66c6" />
 
-This contains everything you need to run your app locally.
+<img width="609" height="487" alt="Untitled1" src="https://github.com/user-attachments/assets/18eaa485-bf49-4f3f-a472-1910c3b9908b" />
+<h3>Built for every journey -> Powering shared experiences across multiple domains</h3>
+<img width="1345" height="593" alt="Untitled" src="https://github.com/user-attachments/assets/d18c05c6-3d96-47ee-9666-5e03e6e6a3cc" />
+<img width="693" height="565" alt="Untitled2" src="https://github.com/user-attachments/assets/bad395ed-fdab-4e23-8952-6194ae1c0a3c" />
 
-View your app in AI Studio: https://ai.studio/apps/1ec309f6-9b0b-4a43-877a-2d09a5e7daee
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
