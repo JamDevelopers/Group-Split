@@ -2,7 +2,7 @@
 <h2>SMART EXPENSE MANAGEMENT</h2>
 <img width="1157" height="453" alt="Untitled001" src="https://github.com/user-attachments/assets/499c237f-b37f-4fa3-9d8f-50cfeb06d26d" />
 
-<p>Stop worrying about who owes who what.The most beautiful and functional way to split group expenses. Whether you're traveling the world or sharing a flat.</p>
+<p>Stop worrying about who owes whom what while travelling in a group. The most beautiful and functional way to split group expenses. Whether you're travelling the world or sharing a flat.</p>
 <img width="621" height="587" alt="Untitled3" src="https://github.com/user-attachments/assets/8a2cba94-052f-4e49-a60e-7e9feadf66c6" />
 
 <img width="609" height="487" alt="Untitled1" src="https://github.com/user-attachments/assets/18eaa485-bf49-4f3f-a472-1910c3b9908b" />
